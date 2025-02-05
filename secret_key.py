@@ -1,0 +1,2 @@
+huggingface_api="Your_huggingface_api_key"
+serpapi_api="Your_serpapi_key_here"
